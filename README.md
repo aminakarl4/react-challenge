@@ -15,6 +15,6 @@
 
 ### To run the application:
 1. Clone the repo
-1. Navigate inside the folder
+1. Navigate inside the `react-challenge` folder
 1. Run `npm install`
 1. Run `npm start`
