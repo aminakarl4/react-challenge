@@ -1,0 +1,9 @@
+.task-list-item {
+    list-style-type: none;
+    display: flex;
+
+    p, input {
+        display: flex;
+        flex: 1;
+    }
+}

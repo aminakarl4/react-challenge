@@ -1,0 +1,18 @@
+.task-list {
+    width: 30%;
+    min-width: 300px;
+    max-width: 500px;
+    margin: 50px auto auto auto;
+
+    .list-header {
+        display: flex;
+        text-align: left;
+
+        p {
+            flex: 1;
+            font-size: 18px;
+            color: #515151;
+            margin-bottom: 5px;
+        }
+    }
+}
