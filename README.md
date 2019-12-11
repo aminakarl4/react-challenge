@@ -1,13 +1,13 @@
 ### Challenge requirements
 
 0. Create a component that will render an Array of Tasks. Render first 5 initially, and only render the "details" property of each Task.  Your Task JSON Object should have the following structure:
-```
-{
-id: Number, //This id needs to be Unique for each Task
-details: String,
-completed: Boolean
-}
-```
+ ```
+ {
+ id: Number, //This id needs to be Unique for each Task
+ details: String,
+ completed: Boolean
+ }
+ ```
  
 0. Have a button that allows you to "Show More" which will render 5 additional JSON objects every time it is clicked, until there are no more Tasks to display.
  
