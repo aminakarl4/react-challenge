@@ -19,3 +19,6 @@
 1. Run `npm install`
 1. Run `npm start`
 1. In case the app doesn't open on it's own, you can find it at `http://localhost:3000/`
+
+
+If you have any questions, feel free to email amina.karl.4@gmail.com!
