@@ -14,7 +14,7 @@
 3. Allow Tasks to be set to "completed" by rendering a checkbox component for each Task. Clicking this box should update the "completed" property of a Task to either true or false based on if the box was checked or unchecked.
 
 ### To run the application:
-0. Clone the repo
-0. Navigate inside the folder
-0. Run `npm install`
-0. Run `npm start`
+1. Clone the repo
+1. Navigate inside the folder
+1. Run `npm install`
+1. Run `npm start`
